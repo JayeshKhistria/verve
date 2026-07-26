@@ -1,4 +1,4 @@
-# ClearSpace Cleaning Website
+# Verve Cleaning Website
 
 A five-page responsive commercial cleaning website built with plain HTML, CSS, and JavaScript.
 
