@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#174f53"/><stop offset="1" stop-color="#82c9c1"/></linearGradient></defs>
+<rect width="1600" height="900" fill="url(#g)"/>
+<g fill="none" stroke="#fff" opacity=".18" stroke-width="3">
+<rect x="150" y="130" width="1300" height="640" rx="30"/>
+<path d="M150 560h1300M520 130v640M1050 130v640"/>
+</g>
+<text x="800" y="430" text-anchor="middle" fill="#fff" font-family="Arial" font-size="58" font-weight="700">Hero Image / Video Placeholder</text>
+<text x="800" y="500" text-anchor="middle" fill="#fff" opacity=".8" font-family="Arial" font-size="28">Replace this SVG with your own commercial cleaning media</text>
+</svg>

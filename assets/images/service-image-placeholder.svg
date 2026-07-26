@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" fill="none">
+  <rect width="900" height="600" fill="#EEF3F5"/>
+  <rect x="160" y="120" width="580" height="360" rx="28" fill="#C5D2D8"/>
+  <path d="M450 180L478 282L580 310L478 338L450 440L422 338L320 310L422 282L450 180Z" fill="#78909C"/>
+  <text x="450" y="535" text-anchor="middle" font-family="Arial, sans-serif" font-size="28" fill="#37474F">Replace with a service photo</text>
+</svg>
